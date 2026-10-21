@@ -1,20 +1,24 @@
-# desibelmusic Autopilot - Privacy Policy
+# desibelmusic - Privacy Policy
+
+Company name: desibelmusic
+
+App: desibelmusic Autopilot
 
 Last updated: October 21, 2026
 
-desibelmusic Autopilot is a personal tool operated by Doganay Baltrak (desibelmusic). It helps the operator create, schedule and publish his own Pins on his own Pinterest business account and view the performance of those Pins. It is used only by its operator and is not offered to the public.
+desibelmusic Autopilot is a personal tool owned and operated by desibelmusic (Doganay Baltrak). It helps desibelmusic create, schedule and publish its own Pins on its own Pinterest business account and view the performance of those Pins. It is used only by its owner and is not offered to the public.
 
 ## What data the app accesses
 
-The app accesses only the operator's own Pinterest boards and Pins (to create Pins and choose a board), analytics for the operator's own Pins (impressions, saves, clicks), and the operator's own Canva designs (to generate Pin images from his templates). It does not access other users' Pins, boards, messages or personal data.
+The app accesses only desibelmusic's own Pinterest boards and Pins (to create Pins and choose a board), analytics for desibelmusic's own Pins (impressions, saves, clicks), and desibelmusic's own Canva designs (to generate Pin images from its templates). It does not access other users' Pins, boards, messages or personal data.
 
 ## Where data is stored
 
-Everything is stored locally on the operator's own computer (a local database and files). Access tokens are kept in a local file that is not shared. Nothing is uploaded to any server run by desibelmusic, and no data is sold, rented or shared with third parties.
+Everything is stored locally on desibelmusic's own computer (a local database and files). Access tokens are kept in a local file that is not shared. Nothing is uploaded to any server run by desibelmusic, and no data is sold, rented or shared with third parties.
 
 ## How data is used
 
-Data is used only to draft, schedule and publish the operator's own content and to show him performance reports. Pins are published only after the operator approves them.
+Data is used only to draft, schedule and publish desibelmusic's own content and to show performance reports. Pins are published only after desibelmusic approves them.
 
 ## Retention and deletion
 
@@ -22,7 +26,7 @@ Analytics data is kept only as long as the app is used. It can be deleted at any
 
 ## Children
 
-The app is not directed to children and collects no personal information from anyone other than its operator.
+The app is not directed to children and collects no personal information from anyone other than its owner.
 
 ## Changes
 
@@ -30,4 +34,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-desibelmusic - Doganay Baltrak - Instagram: https://www.instagram.com/desibelmusics/
+desibelmusic - Instagram: https://www.instagram.com/desibelmusics/
